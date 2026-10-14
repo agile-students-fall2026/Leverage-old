@@ -9,7 +9,7 @@
 | Izen   | [@izzennn](https://github.com/izzennn) |
 | Noor   | [@noor-kh](https://github.com/noor-kh) |
 | Rania  | [@raniaaamer999](https://github.com/raniaaamer999) |
-| Hashim  | |
+| Hashim  | [@Motabagani](https://github.com/Motabagani) |
 
 ## What and why?
 
