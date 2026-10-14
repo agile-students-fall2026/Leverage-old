@@ -1,5 +1,16 @@
 # Leverage
 
+## Team
+
+| Name   | GitHub |
+| ------ | ------ |
+| Hamza  | [@muhammadhamza206](https://github.com/muhammadhamza206) |
+| Kashish | [@kashu0604](https://github.com/kashu0604) |
+| Izen   | [@izzennn](https://github.com/izzennn) |
+| Noor   | [@noor-kh](https://github.com/noor-kh) |
+| Rania  | [@raniaaamer999](https://github.com/raniaaamer999) |
+| Hashim  | |
+
 ## What and why?
 
 Leverage is a mobile web app that helps renters make better decisions when renting an apartment or negotiating their rent.
